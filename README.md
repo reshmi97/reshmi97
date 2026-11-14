@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Pursuing MCA at **MANIT Bhopal**
+- 🎓 Pursuing MCA at **NIT Bhopal**
 - 💻 Interested in Full Stack Web Development
 - 🌱 Currently strengthening my skills in React.js and Backend Development
 - 🛠️ Experienced with building web development projects
