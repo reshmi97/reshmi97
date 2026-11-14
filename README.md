@@ -1,16 +1,65 @@
-## Hi there 👋
 
-<!--
-**reshmi97/reshmi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Reshmi Kushwaha</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  MCA Student at MANIT Bhopal | Full Stack Web Development
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Learning, building and growing as a software developer.
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Pursuing MCA at **MANIT Bhopal**
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently strengthening my skills in React.js and Backend Development
+- 🛠️ Experienced with building web development projects
+- 🎯 Focused on improving problem-solving and software development skills
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+JavaScript | C | C++ | Java | Python | HTML | CSS
+
+**Frontend**
+
+React.js | Bootstrap | jQuery | EJS
+
+**Backend**
+
+Node.js | Express.js
+
+**Database**
+
+PostgreSQL | SQL
+
+**Tools**
+
+Git | GitHub | VS Code
+
+---
+
+### 📌 Featured Projects
+
+- Book Notes Application
+- Weather Application
+- Todo List
+
+---
+
+### 🤝 Connect With Me
+
+- LinkedIn: [@reshmiKushwaha](https://www.linkedin.com/in/reshmi-kushwaha-743a3a2ba/)
+- GitHub: [@reshmikushwaha](https://github.com/reshmi97)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
