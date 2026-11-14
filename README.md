@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reshmi Kushwaha</h1>
 
 <h3 align="center">
-  MCA Student at MANIT Bhopal | Full Stack Web Development
+  MCA Student at MANIT Bhopal | Full Stack Web Developer
 </h3>
 
 <p align="center">
